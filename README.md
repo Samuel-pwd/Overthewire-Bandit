@@ -15,3 +15,8 @@ This repository contains my solutions and progress for the [OverTheWire Bandit](
 ```bash
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 cat readme
+ 
+## ** level 1 → level 2**
+'''bash
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+cat ./-
