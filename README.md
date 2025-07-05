@@ -1,24 +1,15 @@
-# OverTheWire - Bandit Solutions
+# Level 0 - OverTheWire Bandit
 
-This repository contains my solutions and progress for the [OverTheWire Bandit](https://overthewire.org/wargames/bandit/) wargame.  
+## Objective
+Log into the game server and retrieve the password for the next level.
 
-## 🌟 Progress  
-- ✅ Level 0 → Level 1  
-- ✅ Level 1 → Level 2  
-- 🔥 Level 2 → Level 3 (In Progress)  
+## Details
+- Host: `bandit.labs.overthewire.org`
+- Port: `2220`
+- Username: `bandit0`
+- Password: (ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If)
 
----
-
-## 📜 Commands Used  
-
-### **Level 0 → Level 1**  
+## Commands used
 ```bash
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 cat readme
-
----
-
-### ** level 1 → level 2**
-```bash
-ssh bandit1@bandit.labs.overthewire.org -p 2220
-cat ./-
