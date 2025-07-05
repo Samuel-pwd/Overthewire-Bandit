@@ -7,7 +7,7 @@ Log into the game server and retrieve the password for the next level.
 - Host: `bandit.labs.overthewire.org`
 - Port: `2220`
 - Username: `bandit0`
-- Password: (ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If)
+- Password: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
 ## Commands used
 ```bash
